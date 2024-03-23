@@ -150,15 +150,14 @@ header {
     margin: 10px;
     min-width: 140px;
     min-height: 180px;
-    vertical-align: middle;
+    vertical-align: top;
     background-color: rgb(243, 243, 253);
     border-radius: 3px;
     box-shadow: 5px 5px 10px gainsboro;
 }
 
 .products:hover {
-    width: 15%;
-    height: 185px;
+    transform: scale(1.1);
 }
 
 .products>h4,
