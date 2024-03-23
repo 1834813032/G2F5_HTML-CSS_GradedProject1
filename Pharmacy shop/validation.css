@@ -1,4 +1,4 @@
-
+/* Outer box design */
 form {
     width: 80%;
     height: 80%;
@@ -15,7 +15,7 @@ img {
     width: 50%;
     height: 100%;
     float: right;
-    position: sticky;
+    position: sticky;  /* stick the image */
     top: 0;
 } 
 
@@ -33,7 +33,7 @@ img {
     padding: 5px 8px;
     border: none
 }
-
+/* input field design */
 form input{
     width: 200px;
     min-width: 100px;
